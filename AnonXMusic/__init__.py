@@ -1,8 +1,8 @@
-from RadhaXmusiC.core.bot import Anony
-from RadhaXmusiC.core.dir import dirr
-from RadhaXmusiC.core.git import git
-from RadhaXmusiC.core.userbot import Userbot
-from RadhaXmusiC.misc import dbb, heroku
+from AnonXMusic.core.bot import Anony
+from AnonXMusic.core.dir import dirr
+from AnonXMusic.core.git import git
+from AnonXMusic.core.userbot import Userbot
+from AnonXMusic.misc import dbb, heroku
 
 from .logging import LOGGER
 
